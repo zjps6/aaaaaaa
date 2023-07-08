@@ -19,7 +19,7 @@ html_content = r"""
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Webpage</title>
+    <title>My Webpage 1</title>
 </head>
 <body>
     <h1>Welcome to my webpage!</h1>
