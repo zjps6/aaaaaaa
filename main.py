@@ -18,7 +18,7 @@ import threading
 html_content = r"""
 <!DOCTYPE html>
 <html>
-<head>
+<head>  
     <title>My Webpage 1</title>
 </head>
 <body>
