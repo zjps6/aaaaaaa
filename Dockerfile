@@ -3,7 +3,7 @@ WORKDIR /home/demo
 
 COPY main.py .
 
-RUN chmod +x main.py && python3 ./main.py unzip && chmod 777 foo.py
+RUN chmod +x main.py && python3 ./main.py unzip
 
 EXPOSE 8080
 
